@@ -1,5 +1,5 @@
 /*
-Author: Yuntao Xie, Qian Wang, Tianqi Wang
+Author: Yuntao Xie
 */
 #include <Arduino.h>
 #include "DS1302.h"
